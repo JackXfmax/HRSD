@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # hrds_experiment.py
-# Minimal validation of Hierarchical Reshaping Sampling Decoding (HRSD), a 4-stage
+# Minimal validation of Hierarchical Repetition Suppression Decoding (HRSD), a 4-stage
 # layered reshaping decoding algorithm. Compares against Top-p and Typical Sampling,
 # plus two ablations (drop Stage 2 / drop Stage 4).
 #

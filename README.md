@@ -1,4 +1,4 @@
-# HRSD — Hierarchical Reshaping Sampling Decoding
+# HRSD — Hierarchical Repetition Suppression Decoding
 
 **HRSD** is a 4-stage, *layered reshaping* decoding method for autoregressive
 language models that suppresses degeneration (repetition) while paying a small,
@@ -149,7 +149,7 @@ HRSD/
 
 ```bibtex
 @article{hrsd2026,
-  title   = {Hierarchical Reshaping Sampling Decoding},
+  title   = {Hierarchical Repetition Suppression Decoding},
   author  = {xufei},
   journal = {in submission},
   year    = {2026}

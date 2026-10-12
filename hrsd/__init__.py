@@ -1,5 +1,5 @@
 """
-HRSD — Hierarchical Reshaping Sampling Decoding.
+HRSD — Hierarchical Repetition Suppression Decoding.
 
 Clean, model-agnostic core of the HRSD decoding algorithm. The runnable
 experiment pipeline (model loading, metrics, paired-bootstrap significance, all

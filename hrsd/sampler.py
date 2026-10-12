@@ -1,5 +1,5 @@
 """
-HRSD — Hierarchical Reshaping Sampling Decoding (core algorithm)
+HRSD — Hierarchical Repetition Suppression Decoding (core algorithm)
 ================================================================
 
 HRSD is a 4-stage, *layered reshaping* decoding method for autoregressive
