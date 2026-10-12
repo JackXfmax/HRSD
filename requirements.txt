@@ -1,0 +1,7 @@
+# Core algorithm (hrsd/) — only PyTorch is required.
+torch>=2.0
+
+# Full reproduction pipeline (experiments/) — model loading, metrics, bootstrap.
+transformers>=4.40
+numpy>=1.24
+datasets>=2.0

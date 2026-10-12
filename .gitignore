@@ -1,0 +1,28 @@
+# ---- experiment outputs (never commit results) ----
+*.json
+!package.json
+samples.txt
+
+# ---- figures / artifacts generated locally ----
+*.png
+*.pdf
+*.svg
+
+# ---- python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---- model weights (NEVER commit) ----
+models/
+*.safetensors
+*.bin
+*.gguf
+checkpoints/
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
